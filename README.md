@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RjCodeMech
+- 👋 Hi, I’m Rohit Jain, an experienced python developer with over 2 years of experience in IT industry.
 - 👀 I’m passionate in doing web development using python with Django and flask framework.
 - 🌱 I’m currently learning AWS cloud platform and getting more knowledge on backend web development.
 - 💞️ I’m looking to collaborate on a team with which I can work, share my valuable ideas, learn from them, etc.
