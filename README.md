@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a team with which I can work, share my valuable ideas, learn from them, etc.
 - 📫 You can reach out to me on my linkedin profile - www.linkedin.com/in/rohit-jain-9146b1182
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Mechanical Engineer Doing Web development with full enthusiasm.😄
+- ⚡ Fun fact: Mechanical Engineer Doing software development with full enthusiasm.😄
 
 <!---
 RjCodeMech/RjCodeMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
