@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rohit Jain, an experienced python developer with over 2 years of experience in IT industry.
-- 👀 I’m passionate in doing web development using python with Django and flask framework.
-- 🌱 I’m currently learning AWS cloud platform and getting more knowledge on backend web development.
+- 👋 Hi, I’m Rohit Jain, an experienced backend developer with over 3 years of experience in IT industry.
+- 👀 I’m passionate in building scalable backend systems and data pippelines leveraging python, AWS, SQL, Flask, Django, RESTful APIs, and microservices.
+- 🌱 I’m currently working on AWS cloud platform and getting more knowledge on cloud infrastructure and software development.
 - 💞️ I’m looking to collaborate on a team with which I can work, share my valuable ideas, learn from them, etc.
 - 📫 You can reach out to me on my linkedin profile - www.linkedin.com/in/rohit-jain-9146b1182
 - 😄 Pronouns: He/Him
