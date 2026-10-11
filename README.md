@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rohit Jain, an experienced backend developer with over 3 years of experience in IT industry.
-- 👀 I’m passionate in building scalable backend systems and data pippelines leveraging python, AWS, SQL, Flask, Django, RESTful APIs, and microservices.
+- 👋 Hi, I’m Rohit Jain, an experienced AI Data Engineer with over 4 years of experience in IT industry.
+- 👀 I’m passionate in building scalable backend systems and data pipelines leveraging python, AWS, SQL, FastAPI, RESTful APIs, and AI.
 - 🌱 I’m currently working on AWS cloud platform and getting more knowledge on cloud infrastructure and software development.
 - 💞️ I’m looking to collaborate on a team with which I can work, share my valuable ideas, learn from them, etc.
-- 📫 You can reach out to me on my linkedin profile - www.linkedin.com/in/rohit-jain-9146b1182
+- 📫 You can reach out to me on my linkedin profile - www.linkedin.com/in/rohit-jain-1s/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mechanical Engineer Doing software development with full enthusiasm.😄
 
